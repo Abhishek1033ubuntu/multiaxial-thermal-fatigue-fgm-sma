@@ -1,11 +1,10 @@
-```yaml
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
     orcid: "https://orcid.org/0009-0004-6913-096X"
-title: "Multi-Axial High-Cycle Thermal Fatigue Analysis for FGM-SMA Lattices"
-version: 1.0.0
+title: "Multi-Axial High-Cycle Thermal Fatigue Analysis (FGM-SMA Lattices)"
+version: 1.0.1
 date-released: 2026-09-28
 url: "https://github.com/Abhishek1033ubuntu/multiaxial-thermal-fatigue-fgm-sma"
