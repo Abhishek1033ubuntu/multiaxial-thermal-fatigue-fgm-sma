@@ -3,6 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/multiaxial-thermal-fatigue-fgm-sma/blob/main/notebooks/multiaxial_thermal_fatigue_sim.py) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg) 
+[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com) 
 
 ## Overview
 This repository implements a multi-physics computational framework designed to analyze and mitigate structural fatigue under multi-axial high-cycle thermal-mechanical loading ($N > 10^7$ cycles). It models Functionally Graded Material (FGM) integrated with Shape Memory Alloy (SMA) micro-vented 3D structures to sustain high thermal gradients while damping cyclic mechanical resonance.
