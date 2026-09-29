@@ -4,6 +4,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg) 
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23022253-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23022253)
 
 ## Overview
 This repository implements a multi-physics computational framework designed to analyze and mitigate structural fatigue under multi-axial high-cycle thermal-mechanical loading ($N > 10^7$ cycles). It models Functionally Graded Material (FGM) integrated with Shape Memory Alloy (SMA) micro-vented 3D structures to sustain high thermal gradients while damping cyclic mechanical resonance.
